@@ -1,0 +1,51 @@
+#first{
+    text-align: justify;
+}
+h1{
+    font-size: larger;
+    font-style: italic;
+}
+#sec{
+    text-decoration: none;
+}
+#thr{
+margin-left: 400px;
+
+}
+#four{
+
+    margin-left: 300px;
+}
+#h{
+    /* margin-left: 350px; */
+    font-size: 100px;
+    background-color: aqua;
+ width:max-content ;
+    text-decoration: underline;
+    width: 100%;
+}
+#u{
+    font-weight: 800;
+    /* margin-left: 200px; */
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+    background-color: burlywood;
+    width:max-content;
+    color: darkcyan;
+    width:100%;
+}
+#x{
+    font-size: 50px;
+    text-align: right;
+}
+.main{
+    border:20px solid burlywood;
+    font-size: smaller;
+    width: 60%;
+    min-width: 30%;
+    max-width: 60%;
+}
+.v{
+    background-color: chartreuse;
+    border: 5px solid yellow;
+}
